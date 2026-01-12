@@ -11,15 +11,35 @@
   },
   "61295": {
     "titulo": "pokemon origins",
-    "temporadas": 
-      [ "https://drive.google.com/file/d/1-8HnEcBd6bv19HOFu0we2G1SJNa8VBY-/preview"
-      ]},
-  "76121": "",
-  "63926": "",
-  "66732": "",
-  "200875": "",
-  "68267": "",
-"84958": {
+    "temporadas": [
+      null,
+      [
+        "https://drive.google.com/file/d/1-8HnEcBd6bv19HOFu0we2G1SJNa8VBY-/preview"
+      ]
+    ]
+  },
+  "76121": {
+    "titulo": "",
+    "temporadas": []
+  },
+  "63926": {
+    "titulo": "",
+    "temporadas": []
+  },
+  "66732": {
+    "titulo": "",
+    "temporadas": []
+  },
+  "200875": {
+    "titulo": "",
+    "temporadas": []
+  },
+  "68267": {
+    "titulo": "",
+    "temporadas": []
+  },
+  "84958": {
+    "titulo": "Loki",
     "temporadas": [
       null,
       [
@@ -38,10 +58,10 @@
         "https://drive.google.com/file/d/1EI-d0PoNKtQv_MCGzd3o56GMf-sUYWRF/preview",
         "https://drive.google.com/file/d/1KBgveZCcm3U1IJ8MHf9BHNTWQilLM8Sz/preview"
       ]
-    ],
-    "titulo": "Loki"
+    ]
   },
   "93405": {
+    "titulo": "Round 6",
     "temporadas": [
       null,
       [
@@ -72,10 +92,10 @@
         "https://drive.google.com/file/d/1-N3xaRN5nWDal9S82C4yJ3DEyl7oZ2vN/preview",
         "https://drive.google.com/file/d/1-MKGxITZQLjiKVoexOu5FY8puTWl69d6/preview"
       ]
-    ],
-    "titulo": "Round 6"
+    ]
   },
   "94605": {
+    "titulo": "arcane",
     "temporadas": [
       null,
       [
@@ -89,10 +109,10 @@
         "https://drive.google.com/file/d/1Xg3MpNpARZPqPwCwH5RAKW3sMw5_3Rf8/preview",
         "https://drive.google.com/file/d/1hielHjzkhRzKbOjjwLwHS1mqqqF2_wnw/preview"
       ]
-    ],
-    "titulo": "arcane"
+    ]
   },
   "95557": {
+    "titulo": "invencível",
     "temporadas": [
       null,
       [
@@ -125,10 +145,10 @@
         "https://drive.google.com/file/d/10LznZTySs562Q1iipkImMKllPbxk7CDX/preview",
         "https://drive.google.com/file/d/102Pw8Yt-PNfctDYCPUHPDGg-Bgi4pxoX/preview"
       ]
-    ],
-    "titulo": "invencível"
+    ]
   },
   "114410": {
+    "titulo": "Chainsaw Man",
     "temporadas": [
       null,
       [
@@ -145,11 +165,14 @@
         "https://drive.google.com/file/d/1-HqvYCEDLt8LgXANhQNyczRc4dyvnMe4/preview",
         "https://drive.google.com/file/d/100wdpx0cMcSJg7chzoQ5yczeIS4A3KRG/preview"
       ]
-    ],
-    "titulo": "Chainsaw Man"
+    ]
   },
-  "127532": "",
+  "127532": {
+    "titulo": "",
+    "temporadas": []
+  },
   "138505": {
+    "titulo": "Marvel Zumbis",
     "temporadas": [
       null,
       [
@@ -158,10 +181,10 @@
         "https://drive.google.com/file/d/1Ap0Vp-syfIqcnqhhYQCe6sxvVv_pvK4d/preview",
         "https://drive.google.com/file/d/1GamzXOgi6Xze1h6m7vcTXWIbxVEpxTSO/preview"
       ]
-    ],
-    "titulo": "Marvel Zumbis"
+    ]
   },
   "209867": {
+    "titulo": "Frieren",
     "temporadas": [
       null,
       [
@@ -185,6 +208,56 @@
         "https://drive.google.com/file/d/10FPtmRA4q9hJUrgSUE8dklxFxqNlfsxG/preview",
         "https://drive.google.com/file/d/114kX6e8RKr2AHGwl_94iv1umRQnAb8Hq/preview",
         "https://drive.google.com/file/d/11AiKB2tp3i_tc5j0_wWNtBZ9Uluw8LtY/preview",
+        "https://drive.google.com/file/d/11HJ9UGtS7v-rGZG1JxxQMT0MfgwwR2Bb/preview",
+        "https://drive.google.com/file/d/18u7G1xR_RVKK7lJD-o8HH2TYpH4kNoUz/preview",
+        "https://drive.google.com/file/d/11jfb_5D3VZKjLWaXcmSFmFjrluqpDKuI/preview",
+        "https://drive.google.com/file/d/18r5PLRz92o1w5X0myYOeIN0vWIZWQDVb/preview",
+        "https://drive.google.com/file/d/11IHHjOcmrsTBN08ouJH3j3LwYzZxUxct/preview",
+        "https://drive.google.com/file/d/11ImRGDU_33MZcm5lvQ5yNqnZPXnLpD-_/preview",
+        "https://drive.google.com/file/d/18yhYwM2MJ-NecZmVmwmHPmIOjuUFm48q/preview",
+        "https://drive.google.com/file/d/11sJIBnFY50_LffxwQ8Kw0sRRO41lTaM4/preview"
+      ]
+    ]
+  },
+  "240411": {
+    "titulo": "dandadan",
+    "temporadas": [
+      null,
+      [
+        "https://drive.google.com/file/d/1PgHvEbZlsxk-MOIlZ8zo_O-XSMZOkjfY/preview",
+        "https://drive.google.com/file/d/1zRqf0So_eBiyn2OTUObdmEx3bzAIuuHN/preview",
+        "https://drive.google.com/file/d/1e5S-K-GFTPaxrtWSQ1wTgyitcJA0Ydf_/preview",
+        "https://drive.google.com/file/d/1eFCrzILqjgyMHW9zeSZOgAXqkQ-TK3JY/preview",
+        "https://drive.google.com/file/d/1TwakDj7KNG_EgOR01W6CdLIS-OV1-nMn/preview",
+        "https://drive.google.com/file/d/1JNX0a1zAcJC27ZhmsSYKWqooK-FytYD1/preview",
+        "https://drive.google.com/file/d/1BMKb-Uz0VJQ2S8zWoGzFjhbHZWbaYqbn/preview",
+        "https://drive.google.com/file/d/1L1Y2BayZXymxXQmwDJriqIwPLPfOx3mW/preview",
+        "https://drive.google.com/file/d/1UFuH_P6Phjj4Ukg-b4PzAe3N4AykTjU4/preview",
+        "https://drive.google.com/file/d/18rOUV-mEjDlnIanBaEaQBmlrDCCZSO8f/preview",
+        "https://drive.google.com/file/d/19n_Y9UeONZVqDLypNPfQkVyda7h9dXT2/preview",
+        "https://drive.google.com/file/d/1dLRxtSPI08Om8-iZ8ri0ZXBqvrHmWZMZ/preview",
+        "https://drive.google.com/file/d/1x8FLnxDy66cvb_TAhN_SdDdj3bo63cCy/preview"
+      ]
+    ]
+  },
+  "256721": {
+    "titulo": "sakamoto days",
+    "temporadas": [
+      null,
+      [
+        "https://drive.google.com/file/d/1IOdO0izbCAdZ6OPTAQdD5DfCBHfFowzf/preview",
+        "https://drive.google.com/file/d/1Il9al24YCchBGN1MOrgaw9T5fCKA3ihD/preview",
+        "https://drive.google.com/file/d/1h4TOvFQLqDpcbvPRo56azyZALXjmxLpe/preview",
+        "https://drive.google.com/file/d/1SU3kRUOUzlOtLbiRHq1aF50lOkS1iUUK/preview",
+        "https://drive.google.com/file/d/14RkDyYpWWiWz0zYQYDDHoNTGoBzGuzZN/preview",
+        "https://drive.google.com/file/d/1EyznlqzyaVL-8PH8q_HGFJL9u3O92eh2/preview",
+        "https://drive.google.com/file/d/1dVuXWSaCn6r8df821aFKb5h9_A3uSfhW/preview",
+        "https://drive.google.com/file/d/1ApSb4X1UG5mlDKNnzLuZVroxzN5Bx6Q-/preview",
+        "https://drive.google.com/file/d/1iPV9ITK8W4uzTj6jUTa5G3bOsIMgPAnB/preview"
+      ]
+    ]
+  }
+}preview",
         "https://drive.google.com/file/d/11HJ9UGtS7v-rGZG1JxxQMT0MfgwwR2Bb/preview",
         "https://drive.google.com/file/d/18u7G1xR_RVKK7lJD-o8HH2TYpH4kNoUz/preview",
         "https://drive.google.com/file/d/11jfb_5D3VZKjLWaXcmSFmFjrluqpDKuI/preview",
